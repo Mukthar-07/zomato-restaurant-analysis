@@ -1,7 +1,5 @@
 # zomato-restaurant-analysis
-
 ![zomato](https://logos-world.net/wp-content/uploads/2020/11/Zomato-Logo.png)
-
 🍽️ Zomato Restaurant Data Analysis Dashboard – Power BI  📊 Overview This project presents a comprehensive Power BI dashboard built using a cleaned Excel dataset derived from Zomato's restaurant listings.
 
 🍽️ Zomato Restaurant Data Analysis Dashboard – Power BI
